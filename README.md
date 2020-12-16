@@ -13,7 +13,8 @@ Looking forward to contribute to the open-source community. Open for collaborati
 </p>
 
 
-## GitHub Stats
+## Some of my GitHub Stats
+
 <p align=left> <img src=https://komarev.com/ghpvc/?username=rushankshah alt=rushankshah /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=rushankshah&show_icons=true&include_all_commits=true)](https://github.com/rushankshah/github-readme-stats)
