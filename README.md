@@ -1,4 +1,4 @@
-## <p align=center>नमस्ते (Hello) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I am <a href='https://rushankshah.vercel.app/'>Rushank Shah</a></p>
+## <h1 align=center>नमस्ते (Hello) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I am <a href='https://rushankshah.vercel.app/'>Rushank Shah</a></h1>
 [![Gmail Badge](https://img.shields.io/badge/-rushankshah65@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rushankshah65@gmail.com)](mailto:rushankshah65@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-RushankShah-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rushank-shah-65836b1a6/)](https://www.linkedin.com/in/rushank-shah-65836b1a6/)
 [![Github Badge](https://img.shields.io/badge/-rushankshah-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rushankshah/)](https://www.github.com/rushankshah/)
