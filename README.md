@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 
-## <h1 align=center>I am <a href='https://rushankshah.vercel.app/'>Rushank Shah</a></h1>
+<h1 align=center>I am <a href='https://rushankshah.vercel.app/'>Rushank Shah</a></h1>
 [![Gmail Badge](https://img.shields.io/badge/-rushankshah65@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rushankshah65@gmail.com)](mailto:rushankshah65@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-RushankShah-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rushank-shah-65836b1a6/)](https://www.linkedin.com/in/rushank-shah-65836b1a6/)
 [![Github Badge](https://img.shields.io/badge/-rushankshah-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rushankshah/)](https://www.github.com/rushankshah/)
