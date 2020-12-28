@@ -1,5 +1,5 @@
 
-<h1 align=center>नमस्ते! I am <a href='https://rushankshah.vercel.app/'>Rushank Shah</a></h1>
+<h1 align=center>नमस्ते! (Hello) I am <a href='https://rushankshah.vercel.app/'>Rushank Shah</a></h1>
 <p align=center><img src='https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif'></p>
 
 [![Gmail Badge](https://img.shields.io/badge/-rushankshah65@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rushankshah65@gmail.com)](mailto:rushankshah65@gmail.com) 
@@ -13,6 +13,8 @@ I am an undergraduate student studying IT engineering from India and I love buil
 I started my journey as a Software engineer since 2014 with Java as my first programming language and since then worked with many enthusiastic developers to build many amazing projects and have worked closely with Robotics and Automation based projects.
 
 Looking forward to contribute to the open-source community. Open for collaborations.
+
+You can also read my blogs on <a href='https://rushankshah65.medium.com/'>Medium</a>.
 </p>
 
 
