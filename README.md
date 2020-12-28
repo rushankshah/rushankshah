@@ -1,5 +1,6 @@
 
-<h1 align=center>नमस्ते! I am <a href='https://rushankshah.vercel.app/'>Rushank Shah</a><img src='https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif'></h1>
+<h1 align=center>नमस्ते! I am <a href='https://rushankshah.vercel.app/'>Rushank Shah</a></h1>
+<p align=center><img src='https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif'></p>
 
 [![Gmail Badge](https://img.shields.io/badge/-rushankshah65@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rushankshah65@gmail.com)](mailto:rushankshah65@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-RushankShah-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rushank-shah-65836b1a6/)](https://www.linkedin.com/in/rushank-shah-65836b1a6/)
