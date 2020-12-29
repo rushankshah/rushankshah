@@ -13,9 +13,9 @@ I am an undergraduate student studying IT engineering from India and I love buil
 I started my journey as a Software engineer since 2014 with Java as my first programming language and since then worked with many enthusiastic developers to build many amazing projects and have worked closely with Robotics and Automation based projects.
 
 Looking forward to contribute to the open-source community. Open for collaborations.
-
-You can also read my blogs on <a href='https://rushankshah65.medium.com/'>Medium</a>.
 </p>
+
+<hr>
 
 
 ## Some of my GitHub Stats
