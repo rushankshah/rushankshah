@@ -13,9 +13,29 @@ I am an undergraduate student studying IT engineering from India and I love buil
 I started my journey as a Software engineer since 2014 with Java as my first programming language and since then worked with many enthusiastic developers to build many amazing projects and have worked closely with Robotics and Automation based projects.
 
 Looking forward to contribute to the open-source community. Open for collaborations.
+
+I also write blogs on various topics to help the community. You can read them on <a href='https://rushankshah65.medium.com/'>Medium</a>.
+
 </p>
 
-<hr>
+## My Tech Bag
+
+<img src='https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg' height=40 width=40 alt='Java'>
+<img src='https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg' height=40 width=40 alt='react'>
+<img src='https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg' height=40 width=40 alt='next'>
+<img src='https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg' height=40 width=40 alt='arduino'>
+<img src='https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg' height=40 width=40 alt='flutter'>
+<img src='https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg' height=40 width=40 alt='html'>
+<img src='https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg' height=40 width=40 alt='css'>
+<img src='https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg' height=40 width=40 alt='javascript'>
+<img src='https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg' height=40 width=40 alt='bootstrap'>
+<img src='https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg' height=40 width=40 alt='materializecss'>
+<img src='https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg' height=40 width=40 alt='git'>
+<img src='https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg' height=40 width=40 alt='vscode'>
+<img src='https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg' height=40 width=40 alt='mysql'>
+<img src='https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg' height=40 width=40 alt='firebase'>
+
+
 
 
 ## Some of my GitHub Stats
