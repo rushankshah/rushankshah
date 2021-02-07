@@ -2,11 +2,27 @@
 <h1 align=center>नमस्ते! (Hello) I am <a href='https://rushankshah.vercel.app/'>Rushank Shah</a></h1>
 <p align=center><img src='https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif'></p>
 
-[![Gmail Badge](https://img.shields.io/badge/-rushankshah65@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rushankshah65@gmail.com)](mailto:rushankshah65@gmail.com) 
+<!-- [![Gmail Badge](https://img.shields.io/badge/-rushankshah65@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rushankshah65@gmail.com)](mailto:rushankshah65@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-RushankShah-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rushankshah65/)](https://www.linkedin.com/in/rushankshah65/)
 [![Github Badge](https://img.shields.io/badge/-rushankshah-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rushankshah/)](https://www.github.com/rushankshah/)
 [![Twitter Badge](https://img.shields.io/badge/-ShahRushank-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/ShahRushank)](https://twitter.com/ShahRushank)
+ -->
 
+<p align='center'>
+    <a href='mailto:rushankshah65@gmail.com' target="_blank">
+        <img src='https://img.shields.io/badge/-rushankshah65@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rushankshah65@gmail.com'>
+    </a>
+    <a href='https://www.linkedin.com/in/rushankshah65/' target="_blank">
+        <img src='https://img.shields.io/badge/-RushankShah-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rushankshah65/'>
+    </a>
+    <a href='https://www.github.com/rushankshah/' target="_blank">
+        <img src='https://img.shields.io/badge/-rushankshah-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rushankshah/'>
+    </a>
+    <a href='https://twitter.com/ShahRushank' target="_blank">
+        <img src='https://img.shields.io/badge/-ShahRushank-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/ShahRushank'>
+    </a>
+</p>
+ 
 <p>
 I am an undergraduate student studying IT engineering from India and I love building new stuff. Some technologies I enjoy working with include Flutter, ReactJS and Embedded systems (Arduino). I  love bridging the gap between software and hardware and make physical things smarter.
 
