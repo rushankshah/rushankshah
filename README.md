@@ -15,6 +15,9 @@
     <a href='https://twitter.com/ShahRushank' target="_blank">
         <img src='https://img.shields.io/badge/-ShahRushank-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/ShahRushank'>
     </a>
+    <a href='https://rushankshah.vercel.app/' target="_blank">
+        <img src='https://img.shields.io/badge/portfolio-web-yellow?style=curve&link=https://rushankshah.vercel.app/' alt='Website'>
+    </a>
 </p>
  
 <p>
