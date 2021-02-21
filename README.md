@@ -47,7 +47,7 @@ I also write blogs on various topics to help the community. You can read them on
     <img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' height=50 width=50 alt='git' />&nbsp;
     <img src='https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg' height=50 width=50 alt='vscode' />&nbsp;
     <img src='https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg' height=50 width=50 alt='mysql' />&nbsp;
-    <img src='https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg' height=50 width=50 alt='firebase' />&nbsp;
+    <img src='https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg' height=50 width=50 alt='firebase' />
 </p>
 
 <h2 align='center'>Some of my GitHub Stats</h2>
