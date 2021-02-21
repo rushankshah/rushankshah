@@ -33,20 +33,20 @@ I also write blogs on various topics to help the community. You can read them on
 
 <h2 align='center'> My Tech Bag </h2>
 <p align='center'>
-    <img src='https://www.vectorlogo.zone/logos/java/java-icon.svg' height=50 width=50 alt='Java' />&nbsp;
-    <img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg' height=50 width=50 alt='react' />&nbsp;
-    <img src='https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg' height=50 width=50 alt='next' />&nbsp;
-    <img src='https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg' height=50 width=50 alt='arduino' />&nbsp;
-    <img src='https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg' height=50 width=50 alt='flutter' />&nbsp;
-    <img src='https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg' height=50 width=50 alt='flutter' />&nbsp;
-    <img src='https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg' height=50 width=50 alt='html' />&nbsp;
-    <img src='https://seeklogo.com/images/C/css3-logo-F1923C8D0E-seeklogo.com.png' height=50 width=50 alt='css' />&nbsp;
-    <img src='https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg' height=50 width=50 alt='javascript' />&nbsp;
-    <img src='https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg' height=50 width=50 alt='bootstrap' />&nbsp;
-    <img src='https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg' height=50 width=50 alt='materializecss' />&nbsp;
-    <img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' height=50 width=50 alt='git' />&nbsp;
-    <img src='https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg' height=50 width=50 alt='vscode' />&nbsp;
-    <img src='https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg' height=50 width=50 alt='mysql' />&nbsp;
+    <img src='https://www.vectorlogo.zone/logos/java/java-icon.svg' height=50 width=50 alt='Java' />
+    <img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg' height=50 width=50 alt='react' />
+    <img src='https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg' height=50 width=50 alt='next' />
+    <img src='https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg' height=50 width=50 alt='arduino' />
+    <img src='https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg' height=50 width=50 alt='flutter' />
+    <img src='https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg' height=50 width=50 alt='flutter' />
+    <img src='https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg' height=50 width=50 alt='html' />
+    <img src='https://seeklogo.com/images/C/css3-logo-F1923C8D0E-seeklogo.com.png' height=50 width=50 alt='css' />
+    <img src='https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg' height=50 width=50 alt='javascript' />
+    <img src='https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg' height=50 width=50 alt='bootstrap' />
+    <img src='https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg' height=50 width=50 alt='materializecss' />
+    <img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' height=50 width=50 alt='git' />
+    <img src='https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg' height=50 width=50 alt='vscode' />
+    <img src='https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg' height=50 width=50 alt='mysql' />
     <img src='https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg' height=50 width=50 alt='firebase' />
 </p>
 
