@@ -43,5 +43,5 @@ I also write blogs on various topics to help the community. You can read them on
 
 <p align='center'> <img src=https://komarev.com/ghpvc/?username=rushankshah alt=rushankshah /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=rushankshah&show_icons=true&include_all_commits=true)](https://github.com/rushankshah/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushankshah&layout=compact)](https://github.com/rushankshah/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=rushankshah&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github.com/rushankshah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushankshah&layout=compact&theme=gruvbox)](https://github.com/rushankshah/github-readme-stats)
