@@ -19,8 +19,6 @@
         <img src='https://img.shields.io/badge/portfolio-web-yellow?style=curve&link=https://rushankshah.vercel.app/' alt='Website'>
     </a>
 </p>
-
--------------
  
 <p>
 I am an undergraduate student studying IT engineering from India and I love building new stuff. Some technologies I enjoy working with include Flutter, ReactJS and Embedded systems (Arduino). I  love bridging the gap between software and hardware and make physical things smarter.
