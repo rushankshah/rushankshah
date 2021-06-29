@@ -58,7 +58,7 @@ I also write blogs on various topics to help the community. You can read them on
 
 <h2 align='center'>Some of my GitHub Stats</h2>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub.*
+<p align='center'>*NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub.*</p>
 
 <p align='center'> <img src='https://komarev.com/ghpvc/?username=rushankshah&color=00ffff&label=Profile Views' alt=rushankshah /> </p>
 
