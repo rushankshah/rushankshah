@@ -4,19 +4,19 @@
 
 <p align='center'>
     <a href='mailto:rushankshah65@gmail.com' target="_blank">
-        <img src='https://img.shields.io/badge/-rushankshah65@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rushankshah65@gmail.com'>
+        <img src='https://img.shields.io/badge/-rushankshah65@gmail.com-c14438?style=flat&logo=Gmail&logoColor=black&link=mailto:rushankshah65@gmail.com'>
     </a>
     <a href='https://www.linkedin.com/in/rushankshah65/' target="_blank">
-        <img src='https://img.shields.io/badge/-RushankShah-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rushankshah65/'>
+        <img src='https://img.shields.io/badge/-RushankShah-0072b1?style=flat&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/rushankshah65/'>
     </a>
     <a href='https://www.github.com/rushankshah/' target="_blank">
-        <img src='https://img.shields.io/badge/-rushankshah-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rushankshah/'>
+        <img src='https://img.shields.io/badge/-rushankshah-grey?style=flat&logo=github&logoColor=black&link=https://github.com/rushankshah/'>
     </a>
     <a href='https://twitter.com/ShahRushank' target="_blank">
-        <img src='https://img.shields.io/badge/-ShahRushank-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/ShahRushank'>
+        <img src='https://img.shields.io/badge/-ShahRushank-0072b1?style=flat&logo=Twitter&logoColor=black&link=https://twitter.com/ShahRushank'>
     </a>
     <a href='https://rushankshah.vercel.app/' target="_blank">
-        <img src='https://img.shields.io/badge/portfolio-web-yellow?style=curve&link=https://rushankshah.vercel.app/' alt='Website'>
+        <img src='https://img.shields.io/badge/portfolio-web-black?style=curve&link=https://rushankshah.vercel.app/' alt='Website'>
     </a>
 </p>
  
