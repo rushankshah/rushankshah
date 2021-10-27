@@ -66,4 +66,10 @@ I also write blogs on various topics to help the community. You can read them on
 |:-------------:|:-------------:|
 | [![Github stats](https://github-readme-stats.vercel.app/api?username=rushankshah&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/rushankshah/github-readme-stats)    | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushankshah&layout=compact&theme=dark&hide=vue,MakeFile&langs_count=8)](https://github.com/rushankshah/github-readme-stats) |
 
+[![Rushank's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rushankshah&theme=xcode)](https://git.io/rushankshah)
+
+|  Streaks      |Random Joke           |
+|:-------------:|:-------------:|
+| [![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=rushankshah)](https://github-readme-streak-stats.herokuapp.com/?user=rushankshah)    |  [![Jokes Card](https://readme-jokes.vercel.app/api)](https://github.com/rushankshah/github-readme-stats) |
+
 -------------
