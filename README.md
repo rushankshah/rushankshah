@@ -1,4 +1,3 @@
-
 <h1 align=center>नमस्ते! (Hello) I am <a href='https://rushankshah.vercel.app/'>Rushank Shah</a></h1>
 <p align=center><img src='https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif'></p>
 
@@ -29,9 +28,11 @@ Looking forward to contribute to the open-source community. Open for collaborati
 
 I also write blogs on various topics to help the community. You can read them on <a href='https://rushankshah65.medium.com/'>Medium</a>.
 
+I am currently working on the DigitalSoul Project for the Harvard Medical School as a Research Developer. The tech stack which I am working with includes Flutter, NodeJS, ExpressJS and AWS services like DynamoDB and Elastic Beanstalk.
+
 </p>
 
--------------
+---
 
 <h2 align='center'> My Tech Bag </h2>
 <p align='center'>
@@ -52,7 +53,7 @@ I also write blogs on various topics to help the community. You can read them on
     <img src='https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg' height=50 width=50 alt='firebase' />
 </p>
 
--------------
+---
 
 <h2 align='center'>Some of my GitHub Stats</h2>
 
@@ -62,14 +63,14 @@ I also write blogs on various topics to help the community. You can read them on
 
 <p align='center'> <img src='https://komarev.com/ghpvc/?username=rushankshah&color=00ffff&label=Profile Views' alt=rushankshah /> </p>
 
-|  Statistics      |Languages           |
-|:-------------:|:-------------:|
-| [![Github stats](https://github-readme-stats.vercel.app/api?username=rushankshah&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/rushankshah/github-readme-stats)    | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushankshah&layout=compact&theme=dark&hide=vue,MakeFile&langs_count=8)](https://github.com/rushankshah/github-readme-stats) |
+|                                                                                         Statistics                                                                                         |                                                                                                Languages                                                                                                 |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Github stats](https://github-readme-stats.vercel.app/api?username=rushankshah&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/rushankshah/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushankshah&layout=compact&theme=dark&hide=vue,MakeFile&langs_count=8)](https://github.com/rushankshah/github-readme-stats) |
 
 [![Rushank's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rushankshah&theme=xcode)](https://git.io/rushankshah)
 
-|  Streaks      |Random Joke           |
-|:-------------:|:-------------:|
-| [![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=rushankshah)](https://github-readme-streak-stats.herokuapp.com/?user=rushankshah)    |  [![Jokes Card](https://readme-jokes.vercel.app/api)](https://github.com/rushankshah/github-readme-stats) |
+|                                                                       Streaks                                                                        |                                               Random Joke                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+| [![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=rushankshah)](https://github-readme-streak-stats.herokuapp.com/?user=rushankshah) | [![Jokes Card](https://readme-jokes.vercel.app/api)](https://github.com/rushankshah/github-readme-stats) |
 
--------------
+---
