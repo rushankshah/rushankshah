@@ -42,6 +42,8 @@ I am currently working on the DigitalSoul Project for the Harvard Medical School
     <img src='https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg' height=50 width=50 alt='arduino' />
     <img src='https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg' height=50 width=50 alt='flutter' />
     <img src='https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg' height=50 width=50 alt='flutter' />
+    <img src='https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg' height=50 width=50 alt='aws' />
+    <img src='https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg' height=50 width=50 alt='expressjs' />
     <img src='https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg' height=50 width=50 alt='html' />
     <img src='https://seeklogo.com/images/C/css3-logo-F1923C8D0E-seeklogo.com.png' height=50 width=50 alt='css' />
     <img src='https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg' height=50 width=50 alt='javascript' />
