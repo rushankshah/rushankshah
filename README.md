@@ -28,7 +28,9 @@ Looking forward to contribute to the open-source community. Open for collaborati
 
 I also write blogs on various topics to help the community. You can read them on <a href='https://rushankshah65.medium.com/'>Medium</a>.
 
-I am currently working on the DigitalSoul Project for the Harvard Medical School as a Research Developer. The tech stack which I am working with includes Flutter, NodeJS, ExpressJS and AWS services like DynamoDB and Elastic Beanstalk.
+I am currently an Application Developer at Keck Medicine of USC.
+
+My previous Internship includes working on the DigitalSoul Project for the Harvard Medical School as a Research Developer. The tech stack which I used includes Flutter, NodeJS, ExpressJS and AWS services like DynamoDB and Elastic Beanstalk.
 
 </p>
 
