@@ -38,9 +38,11 @@ I am currently working on the DigitalSoul Project for the Harvard Medical School
 <p align='center'>
     <img src='https://www.vectorlogo.zone/logos/java/java-icon.svg' height=50 width=50 alt='Java' />
     <img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg' height=50 width=50 alt='react' />
+    <img src='https://www.vectorlogo.zone/logos/angular/angular-icon.svg' height=50 width=50 alt='angular' />
     <img src='https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg' height=50 width=50 alt='next' />
     <img src='https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg' height=50 width=50 alt='arduino' />
     <img src='https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg' height=50 width=50 alt='flutter' />
+    <img src='https://www.vectorlogo.zone/logos/swift/swift-icon.svg' height=50 width=50 alt='Swift' />
     <img src='https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg' height=50 width=50 alt='flutter' />
     <img src='https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg' height=50 width=50 alt='aws' />
     <img src='https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg' height=50 width=50 alt='expressjs' />
