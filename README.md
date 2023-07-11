@@ -28,7 +28,9 @@ Looking forward to contribute to the open-source community. Open for collaborati
 
 I also write blogs on various topics to help the community. You can read them on <a href='https://rushankshah65.medium.com/'>Medium</a>.
 
-I am currently an Application Developer at Keck Medicine of USC.
+I am currently working at C3 AI as a Software Engineering Intern and building and deploying AI-based applications using the C3 AI platform.
+
+I am former Application Developer at Keck Medicine of USC.
 
 My previous Internship includes working on the DigitalSoul Project for the Harvard Medical School as a Research Developer. The tech stack which I used includes Flutter, NodeJS, ExpressJS and AWS services like DynamoDB and Elastic Beanstalk.
 
