@@ -20,19 +20,30 @@
 </p>
  
 <p>
-I am currently pursuing MS in Computer Science from the University of Southern California and have an undergraduate degree in BE focused towards IT engineering from Mumbai University and I love building new stuff. Some technologies I enjoy working with include Flutter, ReactJS and Embedded systems (Arduino). I  love bridging the gap between software and hardware and make physical things smarter.
+<b> 👋 Hello, I'm Rushank Shah!</b>
 
-I started my journey as a Software engineer in 2014 with Java as my first programming language and since then have worked with many enthusiastic developers to build many amazing projects and have worked closely with Robotics and Automation based projects.
+🎓 I recently graduated with a Master's in Computer Science from the University of Southern California and hold a Bachelor's in IT Engineering from Mumbai University. My passion lies in crafting innovative solutions that bridge the gap between software and hardware.
 
-Looking forward to contribute to the open-source community. Open for collaborations.
+💻 I enjoy tinkering with a variety of technologies, including:
 
-I also write blogs on various topics to help the community. You can read them on <a href='https://rushankshah65.medium.com/'>Medium</a>.
+- 🚀 Flutter
+- ⚛️ ReactJS
+- 🤖 Embedded Systems (Arduino)
 
-My previous internship experience includes working at C3 AI as a Solution Engineering Intern and building and deploying AI-based applications using the C3 AI platform.
+🌱 Throughout my journey, I've collaborated with talented developers to build exciting projects, especially in the realms of Robotics and Automation.
 
-I am currently an Application Developer at Keck Medicine of USC Information Services.
+🔍 I'm always on the lookout to contribute to open-source projects and explore new collaboration opportunities.
 
-My previous Internship includes working on the DigitalSoul Project for the Harvard Medical School as a Research Developer. The tech stack which I used includes Flutter, NodeJS, ExpressJS and AWS services like DynamoDB and Elastic Beanstalk.
+📝 Check out my insightful blogs on Medium: [Medium](https://rushankshah65.medium.com/)
+
+🚀 Past experiences include:
+
+- 💼 Solution Engineering Intern at C3 AI, where I developed and deployed AI-based applications.
+- 💼 Research Developer at Harvard Medical School's DigitalSoul Project, leveraging technologies like Flutter, NodeJS, and AWS.
+
+🏥 Currently, I serve as an Application Developer at Keck Medicine of USC Information Services, where I'm dedicated to building impactful healthcare solutions.
+
+🚀 Excited for the next chapter in my professional journey! Let's connect and collaborate!
 
 </p>
 
