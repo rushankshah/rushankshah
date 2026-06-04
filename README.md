@@ -38,10 +38,11 @@
 
 🚀 Past experiences include:
 
+- 💼 Solution Engineer at C3 AI
 - 💼 Solution Engineering Intern at C3 AI, where I developed and deployed AI-based applications.
 - 💼 Research Developer at Harvard Medical School's DigitalSoul Project, leveraging technologies like Flutter, NodeJS, and AWS.
 
-🏥 Currently, I serve as an Application Developer at Keck Medicine of USC Information Services, where I'm dedicated to building impactful healthcare solutions.
+🏥 Currently, I work at LinkedIn
 
 🚀 Excited for the next chapter in my professional journey! Let's connect and collaborate!
 
