@@ -30,6 +30,7 @@
 - ⚛️ ReactJS
 - 🤖 Embedded Systems (Arduino)
 - 🧠 LLMs and AI agents (my day job these days)
+
 🌱 Throughout my journey, I've collaborated with talented developers to build exciting projects, especially in the realms of Robotics and Automation.
 
 🔍 I'm always on the lookout to contribute to open-source projects and explore new collaboration opportunities.
