@@ -91,11 +91,10 @@
 
 |                                                                                         Statistics                                                                                         |                                                                                                Languages                                                                                                 |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![Github stats](https://github-readme-stats.vercel.app/api?username=rushankshah&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushankshah&layout=compact&theme=dark&hide=vue,MakeFile&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Github stats](./profile/github-stats.svg)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats) |
 
-<!-- Activity graph: host is down, re-enable when self-hosted
-[![Rushank's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rushankshah&theme=xcode)](https://git.io/rushankshah)
--->
+<!-- Stats, languages, and the activity graph are SVGs in this repo, refreshed by .github/workflows/readme-cards.yml. git.io is discontinued, so the graph links to the profile. -->
+[![Rushank's GitHub Activity Graph](./profile/activity-graph.svg)](https://github.com/rushankshah)
 
 |                                                                       Streaks                                                                        |                                               Random Joke                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |

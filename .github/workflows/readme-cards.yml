@@ -1,0 +1,77 @@
+# Refresh the profile stats cards and activity graph from public GitHub data.
+# contents: write is only for committing the generated SVGs. No secrets or PAT.
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          # Same renderer version locked by the pinned action release.
+          core_version: "2.2.0"
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=dark
+          path: profile/github-stats.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: top-langs
+          core_version: "2.2.0"
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&hide=vue,MakeFile&langs_count=8
+          path: profile/top-langs.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Generate activity graph
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/activity_graph.py profile/activity-graph.svg
+
+      - name: Reject error cards
+        run: |
+          python3 - << 'PY'
+          from pathlib import Path
+          required = {
+              "profile/github-stats.svg": ("Total Stars Earned", "Total Commits"),
+              "profile/top-langs.svg": ("Most Used Languages",),
+              "profile/activity-graph.svg": ("Contribution Graph", "polyline"),
+          }
+          for path, needles in required.items():
+              text = Path(path).read_text(encoding="utf-8")
+              lowered = text.lower()
+              if "<svg" not in lowered or "something went wrong" in lowered or "<script" in lowered:
+                  raise SystemExit(f"{path} is not a usable card")
+              for needle in needles:
+                  if needle not in text:
+                      raise SystemExit(f"{path} is missing {needle!r}")
+          print("cards look usable")
+          PY
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/github-stats.svg profile/top-langs.svg profile/activity-graph.svg
+          if git diff --cached --quiet; then
+            echo "cards unchanged"
+            exit 0
+          fi
+          git commit -m "Update README cards"
+          git push
