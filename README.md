@@ -11,14 +11,21 @@
     <a href='https://www.github.com/rushankshah/' target="_blank">
         <img src='https://img.shields.io/badge/-rushankshah-grey?style=flat&logo=github&logoColor=black&link=https://github.com/rushankshah/'>
     </a>
-    <a href='https://x.com/technoking999' target="_blank">
-        <img src='https://img.shields.io/badge/-technoking999-0072b1?style=flat&logo=X&logoColor=black&link=https://x.com/technoking999'>
+    <a href='https://x.com/rushankshah65' target="_blank">
+        <img src='https://img.shields.io/badge/-rushankshah65-0072b1?style=flat&logo=X&logoColor=black&link=https://x.com/rushankshah65'>
     </a>
     <a href='https://rushankshah.vercel.app/' target="_blank">
         <img src='https://img.shields.io/badge/portfolio-web-black?style=curve&link=https://rushankshah.vercel.app/' alt='Website'>
     </a>
 </p>
  
+<p align='center'>
+    <a href='https://rushankshah.vercel.app/#question'>
+        <img src='./profile/ask-me-dark.svg#gh-dark-mode-only' alt='Ask me anything about Rushank…' width='680' />
+        <img src='./profile/ask-me-light.svg#gh-light-mode-only' alt='Ask me anything about Rushank…' width='680' />
+    </a>
+</p>
+
 <p>
 <b> 👋 Hello, I'm Rushank Shah!</b>
 
@@ -77,6 +84,13 @@
     <img src='https://www.vectorlogo.zone/logos/python/python-icon.svg' height=50 width=50 alt='python' />
     <img src='https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg' height=50 width=50 alt='pytorch' />
     <img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' height=50 width=50 alt='tailwind' />
+    <img src='https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg' height=50 width=50 alt='Apache Flink' />
+    <img src='./profile/kafka-dark.svg#gh-dark-mode-only' height=50 width=50 alt='Apache Kafka' />
+    <img src='./profile/kafka-light.svg#gh-light-mode-only' height=50 width=50 alt='Apache Kafka' />
+    <img src='https://huggingface.co/front/assets/huggingface_logo-noborder.svg' height=50 width=50 alt='Hugging Face' />
+    <img src='./profile/openai-dark.svg#gh-dark-mode-only' height=50 width=50 alt='OpenAI' />
+    <img src='./profile/openai-light.svg#gh-light-mode-only' height=50 width=50 alt='OpenAI' />
+    <img src='https://cdn.simpleicons.org/qwen' height=50 width=50 alt='Qwen' />
 </p>
 
 ---

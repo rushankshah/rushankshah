@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="66" viewBox="0 0 680 66" role="img" aria-label="Ask me anything about Rushank…">
+  <title>Ask me anything about Rushank…</title>
+  <rect x="0.5" y="0.5" width="679" height="65" rx="24" fill="#202020" stroke="#8f8f99" stroke-width="1"/>
+  <text x="20" y="34" font-family="Inter, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#a1a1aa">Ask me anything about Rushank…</text>
+  <circle cx="649" cy="33" r="22" fill="#f4f4f5"/>
+  <g fill="none" stroke="#18181b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M649 22v22"/>
+    <path d="M641 30l8-8 8 8"/>
+  </g>
+</svg>
