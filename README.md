@@ -21,8 +21,10 @@
  
 <p align='center'>
     <a href='https://rushankshah.vercel.app/#question'>
-        <img src='./profile/ask-me-dark.svg#gh-dark-mode-only' alt='Ask me anything about Rushank…' width='680' />
-        <img src='./profile/ask-me-light.svg#gh-light-mode-only' alt='Ask me anything about Rushank…' width='680' />
+        <picture>
+            <source media='(prefers-color-scheme: dark)' srcset='./profile/ask-me-dark.svg'>
+            <img src='./profile/ask-me-light.svg' alt='Ask me anything about Rushank…' width='680' />
+        </picture>
     </a>
 </p>
 
@@ -85,11 +87,15 @@
     <img src='https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg' height=50 width=50 alt='pytorch' />
     <img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' height=50 width=50 alt='tailwind' />
     <img src='https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg' height=50 width=50 alt='Apache Flink' />
-    <img src='./profile/kafka-dark.svg#gh-dark-mode-only' height=50 width=50 alt='Apache Kafka' />
-    <img src='./profile/kafka-light.svg#gh-light-mode-only' height=50 width=50 alt='Apache Kafka' />
+    <picture>
+        <source media='(prefers-color-scheme: dark)' srcset='./profile/kafka-dark.svg'>
+        <img src='./profile/kafka-light.svg' height=50 width=50 alt='Apache Kafka' />
+    </picture>
     <img src='https://huggingface.co/front/assets/huggingface_logo-noborder.svg' height=50 width=50 alt='Hugging Face' />
-    <img src='./profile/openai-dark.svg#gh-dark-mode-only' height=50 width=50 alt='OpenAI' />
-    <img src='./profile/openai-light.svg#gh-light-mode-only' height=50 width=50 alt='OpenAI' />
+    <picture>
+        <source media='(prefers-color-scheme: dark)' srcset='./profile/openai-dark.svg'>
+        <img src='./profile/openai-light.svg' height=50 width=50 alt='OpenAI' />
+    </picture>
     <img src='https://cdn.simpleicons.org/qwen' height=50 width=50 alt='Qwen' />
 </p>
 
